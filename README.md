@@ -251,6 +251,7 @@ Growing your audience, one authentic interaction at a time.
 | 🛰️ [X/Twitter Intelligence Analyst](marketing/marketing-x-twitter-intelligence-analyst.md) | Social listening, trend detection, account monitoring | Brand risk, competitor, and audience intelligence on X/Twitter |
 | 📱 [TikTok Strategist](marketing/marketing-tiktok-strategist.md) | Viral content, algorithm optimization | TikTok growth, viral content, Gen Z/Millennial audience |
 | 📸 [Instagram Curator](marketing/marketing-instagram-curator.md) | Visual storytelling, community building | Instagram strategy, aesthetic development, visual content |
+| 🎯 [Instagram Funnel Strategist](marketing/marketing-instagram-funnel-strategist.md) | Instagram content machine and follower-to-client funnel (adapted by E82 Studios) | Content calendars, Reel scripts, DM funnels, competitor reviews |
 | 🤝 [Reddit Community Builder](marketing/marketing-reddit-community-builder.md) | Authentic engagement, value-driven content | Reddit strategy, community trust, authentic marketing |
 | 🌱 [Developer Community Builder](marketing/marketing-developer-community-builder.md) | Discord/forum architecture, contributor programs, community health | Building developer communities that members actually value |
 | 📱 [App Store Optimizer](marketing/marketing-app-store-optimizer.md) | ASO, conversion optimization, discoverability | App marketing, store optimization, app growth |
